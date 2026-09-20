@@ -2,7 +2,7 @@
 
 Outil de recherche opérationnel (**Coopéria**) fondé sur :
 
-> Samirah Tachet, *Optimiser la coopération humain-IA* (septembre 2026).
+> *Optimiser la coopération humain-IA* (septembre 2026).
 
 Préférence explicite pour un **tableau de bord multidimensionnel** plutôt qu’un score unique (§6.3). Les équations du document sont des **définitions opérationnelles**, non des lois validées.
 
